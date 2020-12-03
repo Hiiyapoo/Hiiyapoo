@@ -2,7 +2,9 @@
 
 ___
 
-<p align='center'><a href="https://www.instagram.com/impostor9531/"><img height="200" src="https://avatars0.githubusercontent.com/u/73052642?s=400&u=c0e05b9f2faf2048ca9fed7b79dcff7ef9e3e3fe&v=4"></a>&nbsp;&nbsp;</p>
+<p align='center'>
+<a href="https://www.instagram.com/impostor9531/"><img height="200" src="https://avatars0.githubusercontent.com/u/73052642?s=400&u=c0e05b9f2faf2048ca9fed7b79dcff7ef9e3e3fe&v=4"></a>&nbsp;&nbsp;
+ <a href="https://instagram.com/tobz2k19"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi there 👋 </h1>
 
