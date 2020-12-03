@@ -1,4 +1,4 @@
-[![ANIME](https://github.com/Tanaka9531/Tanaka9531-/blob/main/Background.jfif?raw=true)](https://github.com/Tanaka9531)
+[![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://github.com/Tanaka9531)
 
 ___
 
