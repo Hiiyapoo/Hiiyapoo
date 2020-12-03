@@ -13,5 +13,4 @@ ___
 <p align='center'>   <a href="https://instagram.com/impostor9531/"><img height="30" src="https://github.com/TobyG74/TobyG74/blob/main/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
    <a href="https://wa.me/62816243737"><img height="30" src="https://raw.githubusercontent.com/Tanaka9531/Tanaka9531-/main/whatsapp.png?token=ARNLDYUGDHRSQFDXLIW7HW27ZCYIC"></a>
 </P>
-____
 
