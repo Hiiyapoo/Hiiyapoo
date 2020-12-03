@@ -1,4 +1,4 @@
-(https://github.com/Tanaka9531/Tanaka9531-/blob/main/Background.jfif?raw=true)](https://github.com/Tanaka9531)
+[![ANIME](https://github.com/Tanaka9531/Tanaka9531-/blob/main/Background.jfif?raw=true)](https://github.com/Tanaka9531)
 
 ___
 
