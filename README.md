@@ -7,7 +7,7 @@ ___
 
 <p align='center'> Hai, 私の名前は田中です。はじめまして。 </p>
 
-<p align='center'> I so like anime. :ghost: </p>
+<p align='center'> I so like anime. 👍  </p>
 
 <p align='center'>
    <a href="https://www.youtube.com/channel/UCea_xh4i0rGRclhHMJY-j6w"><img height="30" src="https://img.pngio.com/youtube-icon-vector-images-icon-sign-and-symbols-youtube-icon-png-1000_1000.png"></a>&nbsp;&nbsp;
