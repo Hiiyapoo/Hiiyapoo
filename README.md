@@ -10,7 +10,6 @@ ___
 <p align='center'> I so like anime. 👍  </p>
 
 <p align='center'>
-   <a href="https://www.youtube.com/channel/UCea_xh4i0rGRclhHMJY-j6w"><img height="30" src="https://img.pngio.com/youtube-icon-vector-images-icon-sign-and-symbols-youtube-icon-png-1000_1000.png"></a>&nbsp;&nbsp;
    <a href="https://www.instagram.com/impostor9531/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
    <a href="https://wa.me/0816243737"><img height="30" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png"></a>
 </P>
