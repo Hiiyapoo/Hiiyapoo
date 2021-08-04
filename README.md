@@ -5,9 +5,7 @@ ___
 
 <h1  align='center'> Hi there 👋 </h1>
 
-<p align='center'> Hai, 私の名前は田中です。はじめまして。 </p>
-
-<p align='center'> I so like anime. 👍  </p>
+<p align='center'> Kang Copas :D 。</p>
 
 <p align='center'>
    <a href="https://www.instagram.com/impostor9531/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
