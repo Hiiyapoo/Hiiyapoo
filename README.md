@@ -5,7 +5,7 @@ ___
 
 <h1  align='center'> Hi there 👋 </h1>
 
-<p align='center'> Newbie Bang :)) </p>
+<p align='left'> Newbie Bang :)) </p>
 
 
 
