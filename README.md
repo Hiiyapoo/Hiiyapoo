@@ -7,10 +7,5 @@ ___
 
 <p align='center'> Newbie Bang :))</p>
 
-<p align='center'>
-   <a href="https://www.instagram.com/impostor9531/"><img height="30" src="https://image.freepik.com/free-vector/instagram-icon_1057-2227.jpg"></a>&nbsp;&nbsp;
-   <a href="https://wa.me/0816243737"><img height="30" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png"></a>
-</P>
-
 
 
